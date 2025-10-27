@@ -1,3 +1,4 @@
+- Based on [Venture Media v1.0.0](https://github.com/venture-media/Venture-Media/releases/tag/v1.0.0)
 - Website: https://www.venture-events.com/
 - Platform: WordPress
 - Parent theme: GeneratePress
