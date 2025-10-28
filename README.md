@@ -14,4 +14,4 @@
 - Author: [Leon de Klerk](https://github.com/Leon2332)
 - Visit the [Wiki page](https://github.com/venture-media/Venture-Events/wiki) for maintanance and troubleshooting.
 - Tested with:
-    - php 8.4
+    - php 8.3
