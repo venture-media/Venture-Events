@@ -130,3 +130,9 @@ function gp_child_admin_js() {
     }
 }
 add_action('admin_enqueue_scripts', 'gp_child_admin_js');
+
+// Allow SVG uploads (temporary use)
+add_filter( 'upload_mimes', function( $mimes ) {
+    $mimes['svg'] = 'image/svg+xml';
+    return $mimes;
+});
