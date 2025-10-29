@@ -12,7 +12,7 @@ get_header('shop'); ?>
 
 <?php $uploads = wp_get_upload_dir(); ?>
 <div class="custom-top-banner">
-    <img src="<?php echo $uploads['baseurl'] . '/2025/09/Sand-dunes-Sahara-desert.jpg.webp'; ?>" alt="Decorative banner">
+    <img src="<?php echo $uploads['baseurl'] . '/wp-content/uploads/2025/10/Travel-Nam-Fest_Venture-Media_LvS-9815-1-scaled.jpg'; ?>" alt="Decorative banner">
 </div>
 
 	<div class="row">
